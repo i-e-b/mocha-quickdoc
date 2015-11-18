@@ -1,0 +1,22 @@
+{
+  "name": "mocha-quickdoc",
+  "version": "1.0.0",
+  "description": "A simple HTML reporter for Mocha that doesn't include code and helps with folding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mocha": "<2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-e-b/mocha-quickdoc.git"
+  },
+  "author": "ieb",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/i-e-b/mocha-quickdoc/issues"
+  },
+  "homepage": "https://github.com/i-e-b/mocha-quickdoc#readme"
+}
