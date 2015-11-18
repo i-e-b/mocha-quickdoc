@@ -1,6 +1,6 @@
 {
   "name": "mocha-quickdoc",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A simple HTML reporter for Mocha that doesn't include code and helps with folding",
   "main": "index.js",
   "scripts": {
